@@ -1,0 +1,12 @@
+#cartas{
+
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    
+background-color: blueviolet;
+display: flex;
+justify-content: space-around;
+
+}
